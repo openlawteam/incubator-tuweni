@@ -1,11 +1,3 @@
-
-#Thu May 23 15:28:26 EDT 2019
-distributionBase=GRADLE_USER_HOME
-distributionPath=wrapper/dists
-zipStoreBase=GRADLE_USER_HOME
-zipStorePath=wrapper/dists
-distributionUrl=https\://services.gradle.org/distributions/gradle-5.0-all.zip
-=======
 # Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE
 # file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file
 # to You under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the
